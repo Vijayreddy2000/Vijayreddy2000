@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vijayreddy2000
+- 👋 Hi, I’m @Vijayreddypatlolla
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning Full stack development
 - 💞️ I’m looking to collaborate on ...
