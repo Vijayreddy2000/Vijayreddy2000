@@ -1,11 +1,10 @@
-<h1 align="left">Hi 👋, I'm Vijay Reddy</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smahesh21&label=Profile%20views&color=0e75b6&style=flat" alt="smahesh21" /> </p>
+<h1 align="left">Hi 👋, I'm Vijay Reddy Patlolla</h1>
 
 - 🔭 I’m currently working on **Cloning ReactJs**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **MERN STACK**
 
-- 👯 I’m looking to collaborate on **FULL STACK**
+- 👯 I’m looking to collaborate on **FULL STACK WEB DEVELOPMENT**
 
 - 💬 Ask me about **Web Development**
 
